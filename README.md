@@ -36,4 +36,8 @@ The Legitidevs are a team of people that make unofficial but cool stuff for the 
 
 </details>
 
-
+<div align="center">
+    <a href="https://modrinth.com/project/legitipack">
+        <img width="300" src="https://raw.githubusercontent.com/LegitiDevs/legitimoose-figura-emoji-pack/refs/heads/main/download_on_modrinth.png">
+    </a>
+</div>
